@@ -6,3 +6,5 @@ This repository is the starting point for 16s amplicon analysis of the data used
 4. rep-seqs.qza - generated from fastq files (Olson 2018 )using dada2 denoise-paired
 5. stats.qza - generated from fastq files (Olson 2018 )using dada2 denoise-paired
 6. HITS_Microbiome_Discovery.ipynb - Colab notebook used to conduct qiime2 analysis
+7. metadata.txt - corresponding metadata
+8. HITS_Microbiome_Discovery.ipynb - Colab notebook for analysis with qiime2
